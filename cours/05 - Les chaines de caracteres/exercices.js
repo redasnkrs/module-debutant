@@ -9,6 +9,7 @@
  */
 
 // Exercice 0
+console.log("JavaScript");
 
 // Exercice 1
 
